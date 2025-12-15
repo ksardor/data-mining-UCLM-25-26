@@ -25,15 +25,6 @@ The dataset is sourced from Kaggle: **Student Habits vs Academic Performance**.
     - **Linear Regression & Random Forest:** For score prediction.
     - **Logistic Regression & Decision Tree:** For risk classification.
 
-## 🚀 How to Run
-1.  Clone this repository.
-2.  Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Open `analysis_notebook.ipynb` in Jupyter Notebook or Google Colab.
-4.  Run all cells to generate the analysis and visualizations.
-
 ## 📊 Key Results
 - **Top Predictor:** `attendance_percentage` showed the highest correlation with exam scores.
 - **Negative Impact:** High `social_media_hours` is strongly correlated with lower grades.
@@ -42,7 +33,5 @@ The dataset is sourced from Kaggle: **Student Habits vs Academic Performance**.
 ## 👥 Authors
 - Sardor Kurbonmurodov
 - Yazan Mousa
-- İrem Batıgün
-- Ece Mina Örenler
 
 **University of Castilla-La Mancha (UCLM)** - Data Mining Course
